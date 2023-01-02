@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Jeirax
-- 👀 I’m interested in ... Hacking and Cybersecurity 
+- 👀 I’m interested in ... Front-End and Back-End development
 - 🌱 I’m currently learning computer science 
 
 <!---
